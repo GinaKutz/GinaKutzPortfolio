@@ -1,0 +1,16 @@
+{
+    "database": {
+      "host": "localhost",
+      "port": 27017,
+      "username": "myuser",
+      "password": "mypassword",
+      "database": "mydatabase"
+    },
+    "apiKeys": {
+      "google": "YOUR_GOOGLE_API_KEY",
+      "facebook": "YOUR_FACEBOOK_API_KEY",
+      "twitter": "YOUR_TWITTER_API_KEY"
+    },
+    "environment": "development"
+  }
+  
